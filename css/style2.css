@@ -1,0 +1,41 @@
+/* Created by: Olivia Ten Den
+* Created on: Feb 19
+* This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
+*/
+body {
+  background-color: rgb(226, 188, 228);
+}
+
+h1 {
+  background-color: rgb(158, 208, 231);
+  color: hsl(261, 86%, 27%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #bbb5f3;
+  color: rgb(13, 4, 94);
+}
+
+ul {
+  color: rgb(120, 1, 131);
+}
+
+table {
+  border: solid thin;
+}
+
+th {
+  height: 1rem;
+  background: rgb(230, 173, 173);
+  border: 1px solid rgb(55, 181, 223);
+  text-align: center;
+}
+
+td {
+  height: 2rem;
+  background: rgb(241, 237, 180);
+  border: 1px solid black;
+  text-align: center;
+}
